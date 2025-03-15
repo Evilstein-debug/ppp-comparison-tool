@@ -1,4 +1,4 @@
-# PPP Comparison Tool
+# 💸 PPP Comparison Tool
 
 A Python application that calculates purchasing power parity (PPP) equivalents between different countries, helping users understand the real value of money across borders.
 
